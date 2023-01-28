@@ -6,7 +6,7 @@
 
 ## Preparations
 - Android Debug Tools
-- Dynamic Partition Supported Recovery. [**Download**](https://github.com/Diva-Room/DivaRelease/releases/download/wayne_TDA_v0.7.1/recovery.img)
+- Dynamic Partition Supported Recovery. [**Download**](https://github.com/Diva-Room/DivaRelease/releases/download/wayne_TDA_v0.9.0/recovery.img)
 - super_empty.img from [**latest build**](https://github.com/Diva-Room/DivaRelease/releases?q=wayne&expanded=true)
 - Connet your device to PC
 
